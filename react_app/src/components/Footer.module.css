@@ -1,0 +1,10 @@
+   .Footer{  
+    background-color: aqua;
+    padding:20px ;
+    font-size:large;
+    display: flex;
+    justify-content:space-around;
+    margin-top: 20px;
+    text-transform: capitalize;
+
+   }

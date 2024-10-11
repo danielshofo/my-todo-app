@@ -1,0 +1,33 @@
+.iteams {
+  padding-left: 10px;
+}
+
+.iteamsName {
+  font-weight: bolder;
+  padding: 20px;
+}
+.hr {
+  /* border-color: rgb(255, 255, 255); */
+  border-color: #ffffff;
+}
+.Dbutton {
+  background-color: #ffffff;
+  float: right;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: -7px;
+}
+.completed {
+  text-decoration: line-through;
+}
+.Ebutton{ background-color: #ffffff;
+  float: right;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: -7px;
+  margin-left: 4px;
+}
